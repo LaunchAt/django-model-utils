@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://launchat.github.io/django-backend-utils/</loc>
-         <lastmod>2022-12-29</lastmod>
+         <loc>https://launchat.github.io/django-model-utils/</loc>
+         <lastmod>2022-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://launchat.github.io/django-backend-utils/release-notes/</loc>
-         <lastmod>2022-12-29</lastmod>
+         <loc>https://launchat.github.io/django-model-utils/base/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://launchat.github.io/django-model-utils/release-notes/</loc>
+         <lastmod>2022-12-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

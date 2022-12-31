@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-31 19:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+#: model_utils/base/admin.py:28
+msgid "active"
+msgstr "有効"
+
+#: model_utils/base/models.py:11
+msgid "uuid"
+msgstr "UUID"
+
+#: model_utils/base/models.py:18
+msgid "created date-time"
+msgstr "作成日時"
+
+#: model_utils/base/models.py:19
+msgid "updated date-time"
+msgstr "更新日時"
+
+#: model_utils/base/models.py:27
+msgid "deleted date-time"
+msgstr "削除日時"
+
+#: model_utils/base/utils.py:48
+msgid "hard delete"
+msgstr "物理削除（完全削除）"
+
+#: model_utils/base/utils.py:56
+msgid "soft delete"
+msgstr "論理削除"
+
+#: model_utils/base/utils.py:62
+msgid "restore"
+msgstr "復元"

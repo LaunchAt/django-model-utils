@@ -17,6 +17,8 @@ remote_name: origin
 # Documentation Layout
 nav:
   - Home: 'index.md'
+  - Utilities:
+    - 'base.md'
   - Community:
     - 'release-notes.md'
 
